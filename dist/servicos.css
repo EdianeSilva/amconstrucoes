@@ -91,7 +91,6 @@ body{
   img{
     height: 200px;
     }
-  
 }
  /* Telas maiores que 800px */
 @media screen and (min-width: 900px){
