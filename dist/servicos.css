@@ -198,3 +198,9 @@ body{
   justify-content: center;
   align-items: center;
 }
+.voltar h4{
+  background-color: #3F51B5; 
+  padding: 10px 20px; 
+  border-radius: 20px; 
+  color: #ffffff;
+}

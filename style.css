@@ -54,6 +54,22 @@ table {
 	border-spacing: 0;
 }
 
+.nav-wrapper{
+	background-image: radial-gradient( circle farthest-corner at 10% 20%,  rgba(37,22,131,1) 0%, rgba(97,170,231,1) 90% );
+}
+.side-nav{
+	background-image: radial-gradient( circle farthest-corner at 10% 20%,  rgba(37,22,131,1) 0%, rgba(97,170,231,1) 90% );
+}
+
+.background{
+	background-image: radial-gradient( circle farthest-corner at 7.2% 13.6%,  rgba(37,249,245,1) 0%, rgba(8,70,218,1) 90% );
+}
+.bt-servicos{
+	background-image: linear-gradient( 68.4deg,  rgba(99,251,215,1) -0.4%, rgba(5,222,250,1) 100.2% );
+}
+
+
+
 .titulo{
     color: blue;
     font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
