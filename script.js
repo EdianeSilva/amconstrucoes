@@ -32,18 +32,11 @@ $(function(){
       duration: 500,
     });
   });
-  
-  // seção projetos
-  
-  var instance = M.Carousel.init({
-    fullWidth: true,
-    indicators: true
+
+  //parallax
+  $(document).ready(function(){
+    $('.parallax').parallax();
   });
   
-  // Or with jQuery
-  
-  $('.carousel.carousel-slider').carousel({
-    fullWidth: true,
-    indicators: true
-  });
+
   
