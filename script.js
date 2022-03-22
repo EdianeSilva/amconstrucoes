@@ -30,6 +30,7 @@ $(function(){
     $('.slider').slider({
       height:700 ,
       duration: 500,
+      indicators: false
     });
   });
 
