@@ -29,7 +29,7 @@ $(function(){
   $(document).ready(function(){
     $('.slider').slider({
       height:700 ,
-      duration: 500,
+      duration: 300,
       indicators: false
     });
   });
